@@ -15,7 +15,7 @@ export default function Products({ products }) {
               <img src={node.product.metadata.img} alt={node.product.name} />
               <p>{node.product.name}</p>
               <small>USD {price}</small>
-              <Link to={`/$node.id`}>Comprar ahora</Link>
+              <Link to={`/${node.id}`}>Comprar ahora</Link>
             </article>
           )
         })}
