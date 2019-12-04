@@ -23,7 +23,7 @@ const Header = ({ siteTitle }) => {
             <a href="http://www.platzi.com">Platzi</a>
           </MenuItem>
           <MenuItem>
-            <Link to="/car">
+            <Link to="/cart">
               <span>
                 <img
                   src="https://i.postimg.cc/L6wpMxLt/cart.png"
