@@ -9,6 +9,7 @@ module.exports = {
     author: `@RicrdoMedina`,
   },
   plugins: [
+    `gatsby-plugin-styled-components`,
     `gatsby-plugin-stripe`,
     `gatsby-plugin-react-helmet`, // Cuando no necesita configuracion
     {

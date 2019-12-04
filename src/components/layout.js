@@ -18,8 +18,8 @@ const Layout = ({ children }) => (
     <Content>
       <main>{children}</main>
       <Footer>
-        con amor por
-        <a href="https://www.platzi.com">Platzi</a>
+        Hecho con ♥︎
+        <a href="https://ricrdomedina.github.io/portafolio/">Ricardo Medina</a>
       </Footer>
     </Content>
   </>
