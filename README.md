@@ -1,4 +1,4 @@
-# Petgram progresive web app
+# Platzi Swag
 
 Este repositorio contiene un ecomerce (Platzi Swag) desarrollado con Gatsby JS.
 
